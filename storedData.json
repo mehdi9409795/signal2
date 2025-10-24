@@ -1,0 +1,176 @@
+{
+  "bnb/usd": [
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1077.49,
+      "time": "13:0"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1100.3899999999999,
+      "time": "3:45"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1120.915,
+      "time": "7:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1078.45,
+      "time": "17:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1093.3000000000002,
+      "time": "18:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1092.5500000000002,
+      "time": "9:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1116.0149999999999,
+      "time": "11:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1085.155,
+      "time": "17:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "bnb/usd",
+      "price": 1110.275,
+      "time": "18:30"
+    }
+  ],
+  "eth/usd": [
+    {
+      "timeFrame": "15min",
+      "symbol": "eth/usd",
+      "price": 3875.3050000000003,
+      "time": "13:0"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "eth/usd",
+      "price": 4002.07,
+      "time": "7:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "eth/usd",
+      "price": 3899.37,
+      "time": "7:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "eth/usd",
+      "price": 3897.51,
+      "time": "16:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "eth/usd",
+      "price": 3896.4750000000004,
+      "time": "17:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "eth/usd",
+      "price": 3975.09,
+      "time": "18:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "eth/usd",
+      "price": 3833.8100000000004,
+      "time": "17:30"
+    }
+  ],
+  "xaut/usd": [
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4245.9,
+      "time": "0:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4242.4,
+      "time": "1:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4241.4,
+      "time": "2:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4221.35,
+      "time": "3:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4219.5,
+      "time": "4:0"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4300.85,
+      "time": "16:0"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4306.15,
+      "time": "11:0"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4269.049999999999,
+      "time": "11:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4157.45,
+      "time": "17:45"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4109.2,
+      "time": "3:15"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4067.8999999999996,
+      "time": "3:30"
+    },
+    {
+      "timeFrame": "15min",
+      "symbol": "xaut/usd",
+      "price": 4111.15,
+      "time": "11:30"
+    }
+  ]
+}
