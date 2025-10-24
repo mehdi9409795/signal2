@@ -1,4 +1,4 @@
-name: Run Bot
+name: GitHub Actions Demo
 on:
   schedule:
     - cron: "*/15 * * * *"   # هر ۱۵ دقیقه
