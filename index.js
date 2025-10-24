@@ -1,5 +1,12 @@
+const express = require("express");
 const getCollection = require("./db").getCollection;
 const dotenv = require("dotenv");
+
+const PORT = process.env.PORT || 3000;
+
+const app = express();
+app.get("/", (req, res) => res.send("🚀 Bot is running fine!"));
+app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
 
 dotenv.config();
 
