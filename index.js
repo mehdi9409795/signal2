@@ -1,12 +1,12 @@
-const express = require("express");
+// const express = require("express");
 const getCollection = require("./db").getCollection;
 const dotenv = require("dotenv");
 
-const PORT = process.env.PORT || 3000;
+// const PORT = process.env.PORT || 3000;
 
-const app = express();
-app.get("/", (req, res) => res.send("🚀 Bot is running fine!"));
-app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
+// const app = express();
+// app.get("/", (req, res) => res.send("🚀 Bot is running fine!"));
+// app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
 
 dotenv.config();
 
@@ -165,7 +165,7 @@ async function mapForSymbols() {
 (async () => {
   try {
     await mapForSymbols();
-    setInterval(mapForSymbols, timeFrameMsMap[timeFrame]);
+    // setInterval(mapForSymbols, timeFrameMsMap[timeFrame]);
   } catch (err) {
     console.error("Error:", err);
   }
