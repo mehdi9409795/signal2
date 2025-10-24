@@ -22,7 +22,7 @@ async function connectDB() {
   if (!db) {
     try {
       await client.connect();
-      db = client.db("main_db"); // replace with your DB name
+      db = client.db("main_db");
       console.log("MongoDB connected");
     } catch (err) {
       console.error("MongoDB connection error:", err);
