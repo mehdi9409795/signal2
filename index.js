@@ -9,7 +9,7 @@ const API_KEY = process.env.API_KEY;
 
 const timeFrameMsMap = {
   "5min": 5 * 60 * 1000,
-  "15min": 1 * 60 * 1000,
+  "15min": 15 * 60 * 1000,
   "1h": 60 * 60 * 1000,
 };
 
