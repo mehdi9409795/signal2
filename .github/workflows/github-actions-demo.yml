@@ -1,0 +1,14 @@
+name: Run Bot
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # هر ۱۵ دقیقه
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm install
+      - run: node index.js
