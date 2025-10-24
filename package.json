@@ -2,11 +2,14 @@
   "name": "trade-signal",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "dotenv": "^17.2.3",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.20.0",
     "node-fetch": "^3.3.2"
   }
 }
